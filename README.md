@@ -1,5 +1,5 @@
 # The Hangman Game 
-1.0
+1.0 <br/>
 This is a simple implementation of the hangman game with Python 3. 
 ## Main Menu
  
