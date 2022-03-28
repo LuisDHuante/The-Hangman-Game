@@ -26,12 +26,15 @@ The game menu has 4 different options:
 
 ### Safe mode
 In Safe mode, you have infinite lives, which means you can try any number of letters to win the game.
+The letters already entered are displayed on screen.
 
 ![image](https://user-images.githubusercontent.com/69726163/160449103-71a990c3-0105-440b-b471-ba07d9219414.png)
 
 ### Danger mode
 In Danger mode, you have a limited amount of attempts (10 lives) to guess the word and save the hangman.
-![image](https://user-images.githubusercontent.com/69726163/160449767-c8290c64-4237-41a6-8fcd-6dc47bca0998.png)
+The letters already entered are displayed on screen. You do not lose lives if you enter an already used letter.
+
+![image](https://user-images.githubusercontent.com/69726163/160452813-a1bc6cbd-ea7d-47b2-bbc3-9e649ef3ef65.png)
 
 ## 2. Add word to the game
 You can also add any word you like to the game. The game detects if you insert invalid characters and only accepts the alphabetic ones.
