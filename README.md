@@ -36,7 +36,7 @@ The letters already entered are displayed on screen. You do not lose lives if yo
 
 ![image](https://user-images.githubusercontent.com/69726163/160452813-a1bc6cbd-ea7d-47b2-bbc3-9e649ef3ef65.png)
 
-## 2. Add word to the game
+## 2. Adding words to the game
 You can also add any word you like to the game. The game detects if you insert invalid characters and only accepts the alphabetic ones.
 The new words are added directly to the 'data.txt' file.
 ![image](https://user-images.githubusercontent.com/69726163/160450704-c39ede6b-7ed2-4e89-9908-00bedb32bad6.png)
