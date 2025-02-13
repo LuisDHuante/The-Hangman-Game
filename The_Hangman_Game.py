@@ -107,7 +107,7 @@ def add_word():
         elif new_word.isalnum() or regex.search(new_word) != None:
             os.system ("clear")
             new_word = input('You must enter a valid word : ').lower()
-    with open('./archivos/data.txt', 'a', encoding='utf-8') as file:  
+    with open('./data.txt', 'a', encoding='utf-8') as file:  
         file.write('\n')
         file.write(new_word)
         
